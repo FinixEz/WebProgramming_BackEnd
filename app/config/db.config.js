@@ -1,6 +1,6 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "",
-  DB: "web_karaoke",
+  HOST: "sql.freedb.tech",
+  USER: "freedb_webkaraoke",
+  PASSWORD: "bMDS478V!T4!tdD",
+  DB: "freedb_web_karaoke",
 };
